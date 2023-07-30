@@ -1,0 +1,9 @@
+{
+	"name": "newADFclasses",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "229b9d34-5fbe-44c7-af1f-bc50b5649a10",
+		"tenantId": "c079a101-e4c6-4d8d-91c8-68dc15844a24"
+	}
+}

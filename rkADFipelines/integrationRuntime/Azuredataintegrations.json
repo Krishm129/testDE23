@@ -1,0 +1,7 @@
+{
+	"name": "Azuredataintegrations",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "creating new integration run time"
+	}
+}

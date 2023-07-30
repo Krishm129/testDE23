@@ -1,0 +1,17 @@
+{
+	"name": "localFileServer",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "D:\\AzureLocal\\testfiles",
+			"userId": "ramakrishna2039@gmail.com",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJjNjE4ODMyMy04NzY5LTQ5MjEtYTNiMy02ZjM1ODY0Y2Y5MTEiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "integrationRuntime1rklaptop",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Newlycreated",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "SqlServer",
+		"typeProperties": {
+			"connectionString": "integrated security=False;data source=SATYAGOUD\\SQLEXPRESS;initial catalog=Satya;user id=sa",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIyOTI1NTdmZi1hNzYzLTQ5MDEtOThhMC1mMmVmOTQ3NjY1Y2UiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "Azuredataintegrations",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}

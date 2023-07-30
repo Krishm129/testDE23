@@ -1,0 +1,6 @@
+{
+	"name": "integrationRuntime1rklaptop",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
